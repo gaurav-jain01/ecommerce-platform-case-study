@@ -48,7 +48,8 @@ Contributed to building and improving a scalable system including mobile app, ba
 ---
 
 📸 Screenshots
-(Add your screenshots here)
+
+<img width="555" height="924" alt="image" src="https://github.com/user-attachments/assets/f977f7bb-4161-4f62-8ef5-e386156cdd31" />
 
 ---
 
