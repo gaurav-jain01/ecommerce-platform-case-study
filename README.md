@@ -57,10 +57,5 @@ Contributed to building and improving a scalable system including mobile app, ba
 
 ---
 
-🎥 Demo
-(Add demo video link here)
-
----
-
 ⚠️ Note
 Due to confidentiality, source code is not publicly available.
