@@ -49,7 +49,11 @@ Contributed to building and improving a scalable system including mobile app, ba
 
 📸 Screenshots
 
-<img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/f977f7bb-4161-4f62-8ef5-e386156cdd31" />
+<img width="192" height="320" alt="image" src="https://github.com/user-attachments/assets/f977f7bb-4161-4f62-8ef5-e386156cdd31" />
+<img width="192" height="320" alt="image" src="https://github.com/user-attachments/assets/678d20d9-e4e8-4a9f-a14e-3d0cf6312ad5" />
+<img width="192" height="320" alt="image" src="https://github.com/user-attachments/assets/a2c5afe1-ed4e-4567-9146-299c3dff7522" />
+<img width="192" height="320" alt="image" src="https://github.com/user-attachments/assets/10e69653-7f52-44d8-956e-d0ea96f56710" />
+<img width="192" height="320" alt="image" src="https://github.com/user-attachments/assets/f42ed44b-2fc1-4491-9500-11fe87a4e094" />
 
 ---
 
